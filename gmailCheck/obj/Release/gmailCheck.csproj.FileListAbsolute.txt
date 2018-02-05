@@ -1,0 +1,12 @@
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\bin\Release\gmailCheck.exe.config
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\bin\Release\gmailCheck.exe
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\bin\Release\gmailCheck.pdb
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\bin\Release\Newtonsoft.Json.dll
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\bin\Release\Newtonsoft.Json.xml
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\obj\Release\gmailCheck.Form1.resources
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\obj\Release\gmailCheck.Properties.Resources.resources
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\obj\Release\gmailCheck.csproj.GenerateResource.Cache
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\obj\Release\gmailCheck.exe
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\obj\Release\gmailCheck.pdb
+C:\Users\dane\documents\visual studio 2017\Projects\gmailCheck\gmailCheck\obj\Release\gmailCheck.csprojResolveAssemblyReference.cache
